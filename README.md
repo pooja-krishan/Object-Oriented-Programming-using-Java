@@ -82,7 +82,7 @@ type of EB connection (i.e domestic or commercial).
 - Return My exception occured appended with str1 in the toString() method.
 - In the try block of the main method, throw the object of the my_exception method and set str2 as This is my error message
 - Catch my_exception in an object and print it
-![exp7](./exp7/output7.PNG)
+![exp7](./exp7/user-defined-exception-test/output7.PNG)
 
 ## 8. FILE OPERATIONS
 - Get the name of the file and store it in the File object.
