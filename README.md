@@ -104,4 +104,4 @@ type of EB connection (i.e domestic or commercial).
 - Create class gen where and pass arguments of type T to the max function where T extends Comparable class.
 - Check if a is greater than b using the compareTo method and print the maximum of a and b.
 - In the main method, call the max function and pass any data type as argument.
-![exp10](./exp10/output10.PNG)
+![exp10](./exp10/exp10.PNG)
